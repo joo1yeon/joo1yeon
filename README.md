@@ -4,8 +4,8 @@
 
 `2023.01.` - `2023.12.` 삼성 청년 SW 아카데미 9기 <br>
 `2021.12.` - `2022.06.` KDT 지능형 웹 서비스 풀스택 개발 과정 <br>
-`2020.03.` - `2022.02.` 덕성여자대학교 <br>
-`2017.03.` - `2020.02.` 명지전문대학 <br>
+`2020.03.` - `2022.02.` 덕성여자대학교 컴퓨터공학과 <br>
+`2017.03.` - `2020.02.` 명지전문대학 컴퓨터공학과 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Skills 
 
@@ -24,7 +24,7 @@
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=azureblue)](https://solved.ac/azureblue)
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--
 ### Hi there 👋
