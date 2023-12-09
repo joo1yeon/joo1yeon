@@ -23,9 +23,6 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="30" height="30" /> Algorithm Problem Solving
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=azureblue)](https://solved.ac/azureblue)
 
-
-![](./profile-3d-contrib/profile-season-animate.svg)
-
 <!--
 ### Hi there 👋
 
